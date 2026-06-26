@@ -1,4 +1,4 @@
-I turned the sad-but-dying-inside FedRAMP Cat into ASCII art. 
+I turned the happy-but-dying-inside FedRAMP Cat into ASCII art. 
 Some good places to put could be:
 
 Your VDR standard when you tell the PMO that you are patching in 3 days. 
